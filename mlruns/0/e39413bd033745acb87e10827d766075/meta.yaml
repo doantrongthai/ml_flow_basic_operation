@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow_test/mlruns/0/e39413bd033745acb87e10827d766075/artifacts
+end_time: 1737798089090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e39413bd033745acb87e10827d766075
+run_name: serious-wolf-554
+run_uuid: e39413bd033745acb87e10827d766075
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737798078725
+status: 3
+tags: []
+user_id: thai
